@@ -14,10 +14,6 @@
 </p>
 <br>
 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=taymilagres&bg_color=000000&color=96178e&line=f250e7&point=a3edff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div style="display: inline_block" align="center"><br>
 
 <img align="center" alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
