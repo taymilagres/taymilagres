@@ -8,7 +8,7 @@
 </div>
 
 <p>
-🎓 Cursando Análise e Desenvolvimento de Sistemas na PUCminas <br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas <br>
 📚 Estudando: HTML, CSS e JavaScript <br>
 💻 Desenvolvedora Web Front-End <br>
 </p>
