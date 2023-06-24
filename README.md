@@ -10,7 +10,7 @@
 <p>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUCminas <br>
 📚 Estudando: HTML, CSS e JavaScript <br>
-💻 A caminho de me tornar Desenvolvedora Web Front-End <br>
+💻 Desenvolvedora Web Front-End <br>
 </p>
 <br>
 
