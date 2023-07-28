@@ -7,7 +7,10 @@
 
 </div>
 
+<img align="right" src="https://github.com/taymilagres/taymilagres/assets/127251265/8ccb6046-fd5f-40cc-bb5e-cdfc818321fb" width="200px" height="200px"/>
+
 <p>
+<br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas <br>
 📚 Estudando: HTML, CSS e JavaScript <br>
 💻 Desenvolvedora Web Front-End <br>
