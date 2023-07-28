@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" src="https://github.com/taymilagres/taymilagres/assets/127251265/8ccb6046-fd5f-40cc-bb5e-cdfc818321fb" width="200px" height="200px"/>
+<img align="right" src="https://github.com/taymilagres/taymilagres/assets/127251265/8ccb6046-fd5f-40cc-bb5e-cdfc818321fb" width="200px" height="200px" alt="Arte feita por: Apple Jessie"/>
 
 <p>
 <br>
