@@ -9,7 +9,6 @@
 
 <img align="right" src="https://github.com/taymilagres/taymilagres/assets/127251265/8ccb6046-fd5f-40cc-bb5e-cdfc818321fb" width="200px" height="200px" alt="Arte feita por: Apple Jessie"/>
 
-
 <br>
 <ul>
 <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas</li>
@@ -31,5 +30,19 @@
 <img  alt="Tay-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img  alt="Tay-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 </div>
+<br>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=taymilagres&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymilagres&layout=compact&card_width=320&theme=tokyonight" />
+</a>
+</div>
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
