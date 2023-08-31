@@ -14,7 +14,7 @@
 <ul>
 <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas</li>
 <li>💻 Desenvolvedora Web Front-End</li>
-<li>📚 Entusiasta da tecnologia </li>
+<li>📚 Entusiasta de tecnologia </li>
 </ul>
 
 <div>
@@ -25,10 +25,10 @@
 
 <div align="center">
 <h2>Estudando:</h2>
-<img  alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img  alt="Tay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img  alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  alt="Tay-C#" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+<img  alt="Tay-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  alt="Tay-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img  alt="Tay-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img  alt="Tay-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
