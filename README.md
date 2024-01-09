@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
 <div align="center">
@@ -21,15 +21,32 @@
 <a href = "mailto:tayanemilagres.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/tayane-f-milagres-34a992273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_taaymilagres/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
+
 </div>  
 
 <div align="center">
-<h2>Estudando:</h2>
+<h2>Habilidades Técnicas:</h2>
 <img  alt="Tay-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img  alt="Tay-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img  alt="Tay-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img  alt="Tay-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+<img  alt="Tay-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  alt="Tay-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img  alt="Tay-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img  alt="Tay-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img  alt="Tay-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<h2> Habilidades Pessoais: </h2>
+| Proatividade | Trabalho em equipe | Aprendizagem rápida | Organização |<br> | Resolução de Problemas | Flexibilidade | Atenção aos detalhes | Adaptabilidade |
+
 </div>
+
+<div align="center">
+  <h2>Já tive contato:</h2>
+  <img  alt="Tay-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img  alt="Tay-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+  <img  alt="Tay-.Net" height="40"  width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</div>
+  
 <br>
 
 <div align="center">
