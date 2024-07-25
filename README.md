@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hello+World!+My+name+is+Tayane+%3C3;I'm+19+years+old+;I'm+from+Minas+Gerais+and+studying%3A;Systems+Analysis+and+Development+;Passionate+about+technology+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hello+World!+My+name+is+Tayane+%3C3;I'm+20+years+old+;I'm+from+Minas+Gerais+and+studying%3A;Systems+Analysis+and+Development+;Passionate+about+technology+%3C3)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <br>
 <ul>
-<li>🎓 3º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
+<li>🎓 4º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
 <li>💻 Desenvolvedora Web Front-End</li>
 <li>📚 Entusiasta de tecnologia </li>
 </ul>
