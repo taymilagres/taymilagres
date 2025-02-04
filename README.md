@@ -11,7 +11,7 @@
 
 <br>
 <ul>
-<li>🎓 4º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
+<li>🎓 Formanda em Análise e Desenvolvimento de Sistemas na PUC Minas</li>
 <li>💻 Software Developer</li>
 <li>📚 Entusiasta de tecnologia </li>
 </ul>
