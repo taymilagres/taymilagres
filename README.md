@@ -11,7 +11,7 @@
 
 <br>
 <ul>
-<li>🎓 Formanda em Análise e Desenvolvimento de Sistemas na PUC Minas</li>
+<li>🎓 Análise e Desenvolvimento de Sistemas - PUC Minas</li>
 <li>💻 Software Developer</li>
 <li>📚 Entusiasta de tecnologia </li>
 </ul>
