@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hello+World!+My+name+is+Tayane+%3C3;I'm+20+years+old+;I'm+from+Minas+Gerais+and+studying%3A;Systems+Analysis+and+Development+;Passionate+about+technology+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hello+World!+My+name+is+Tayane+%3C3;I'm+21+years+old+;I'm+from+Minas+Gerais+Graduated+in%3A;Analysis+and+Systems+Development+;Passionate+about+technology+%3C3)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,14 +45,7 @@
 
 </div>
 
-<div align="center">
-  <h2>Já tive contato:</h2>
-  <img  alt="Tay-C#" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img  alt="Tay-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-  <img  alt="Tay-.Net" height="40"  width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</div>
-  
-<br>
+<br><br>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
